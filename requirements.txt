@@ -1,0 +1,17 @@
+# Core packages
+pandas
+numpy
+scikit-learn
+joblib
+
+# Visualization (jika kamu pakai grafik)
+matplotlib
+seaborn
+
+# Web App
+streamlit
+
+# Opsional untuk validasi input atau prepro
+xgboost         # Jika kamu pernah coba XGBoost
+imblearn        # Jika menggunakan SMOTE
+
